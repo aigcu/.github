@@ -1,8 +1,8 @@
 # Welcome to CAIR (Canyon Artificial Intelligence Research) 
 
-### We are GCU's AI research and development lab!
+### 🔬 We are GCU's AI research and development lab!
 
-## To join or make contributions, visit <a href="https://aigcu.org">aigcu.org</a>
+### 🧙 To join or make contributions, visit <a href="https://aigcu.org">aigcu.org</a>
 
 
 
