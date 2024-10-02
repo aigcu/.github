@@ -1,4 +1,8 @@
-## Welcome to CAIR (Canyon Artificial Intelligence Research)
+# Welcome to CAIR (Canyon Artificial Intelligence Research) 🧠
+
+### CAIR's mission is to give students the best environment possible to learn and collaborate on AI-related endeavors. Our goal is to create an atmosphere that fosters personal research and also encourages collaborative efforts, allowing our members to network, explore, and innovate together within the realm of AI.
+
+
 
 <!--
 
