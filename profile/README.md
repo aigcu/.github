@@ -5,9 +5,9 @@
 ### 🧙 To join or make contributions, visit <a href="https://aigcu.org">aigcu.org</a>
 
 #### Check out some of our projects:
--VSiD
--BCI
--Antivirus
+* VSiD
+* BCI
+* Antivirus
 
 
 
