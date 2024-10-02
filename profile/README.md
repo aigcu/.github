@@ -1,4 +1,4 @@
-# Welcome to CAIR (Canyon Artificial Intelligence Research) 
+# CAIR (Canyon Artificial Intelligence Research) 
 
 ### 🔬 We are GCU's AI research and development lab!
 
